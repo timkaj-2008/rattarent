@@ -3,8 +3,8 @@
 Rattarent on süsteem, mille abil kasutajad saavad vaadata vabu 
 jalgrattaid, rentida ratta, selle tagastada ja vaadata rendiinfot.
 
-**Tegijad:** Eesnimi Perekonnanimi, Eesnimi Perekonnanimi  
-**Grupp:** TA-24
+**Tegijad:** Aleksei Dubtsak, Timofei Jegorov
+**Grupp:** NPTV24
 
 ## Kasutajad ja nõuded
 
