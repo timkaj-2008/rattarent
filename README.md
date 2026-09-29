@@ -41,7 +41,7 @@ Me tegime maketi iteratiivselt, sest vaatasime mõlemad ekraanid
 
 ![Vabad rattad](makett/vabad_rattad.png)
 
-![Ratta rent](makett/rendi_ekraan.png)
+![Ratta rent](makett/renti_ekraan.png)
 
 ## Kuidas me töötasime
 
