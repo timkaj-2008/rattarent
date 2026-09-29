@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="aFphMyUpmt4clm5qWXJy">
+    <mxGraphModel dx="1523" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-1" edge="1" parent="1" source="Uq3l62MPJ-tBfyngMqxs-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Uq3l62MPJ-tBfyngMqxs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-2" edge="1" parent="1" source="Uq3l62MPJ-tBfyngMqxs-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Uq3l62MPJ-tBfyngMqxs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-3" edge="1" parent="1" source="Uq3l62MPJ-tBfyngMqxs-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Uq3l62MPJ-tBfyngMqxs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-4" edge="1" parent="1" source="Uq3l62MPJ-tBfyngMqxs-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Uq3l62MPJ-tBfyngMqxs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-5" edge="1" parent="1" source="Uq3l62MPJ-tBfyngMqxs-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Uq3l62MPJ-tBfyngMqxs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Kasutaja" vertex="1">
+          <mxGeometry height="60" width="30" x="380" y="522" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-7" edge="1" parent="1" source="Uq3l62MPJ-tBfyngMqxs-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Uq3l62MPJ-tBfyngMqxs-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Haldur" vertex="1">
+          <mxGeometry height="60" width="30" x="730" y="522" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vaata vabu rattaid&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rendi ratas&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tagasta ratas&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="522" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vaata rendi hinda&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="604" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vaata rendiajalugu" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="686" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq3l62MPJ-tBfyngMqxs-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre class=&quot;overflow-visible! px-0!&quot;&gt;&lt;div class=&quot;relative w-full mt-4 mb-1&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;contents&quot;&gt;&lt;div class=&quot;relative&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;border border-token-border-light border-radius-3xl corner-superellipse/1.1 rounded-3xl&quot;&gt;&lt;div class=&quot;h-full w-full border-radius-3xl bg-(--code-block-surface) corner-superellipse/1.1 overflow-clip rounded-3xl [--code-block-surface:var(--bg-elevated-secondary)] dark:[--code-block-surface:var(--composer-surface-primary)] lxnfua_clipPathFallback&quot;&gt;&lt;div class=&quot;relative&quot;&gt;&lt;div class=&quot;pe-11 pt-3&quot;&gt;&lt;div class=&quot;relative z-0 flex max-w-full&quot;&gt;&lt;div id=&quot;code-block-viewer&quot; dir=&quot;ltr&quot; class=&quot;q9tKkq_viewer cm-editor z-10 light:cm-light dark:cm-light flex h-full w-full flex-col items-stretch ͼs ͼ16&quot;&gt;&lt;div class=&quot;cm-scroller&quot;&gt;&lt;pre class=&quot;cm-content q9tKkq_readonly m-0 PDq2pG_selectionAnchorContainer&quot;&gt;&lt;code&gt;Vaata aktiivseid rente&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;PDq2pG_selectionAnchor&quot;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;&lt;br/&gt;&lt;p dir=&quot;auto&quot;&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="490" y="770" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

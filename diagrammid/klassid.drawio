@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="JmZVe_qhFFwLwHh6CU67">
+    <mxGraphModel dx="3808" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JG38FneTFHqvnnvoD_w8-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="240" width="240" x="365" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-2" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="JG38FneTFHqvnnvoD_w8-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="465" y="630" as="sourcePoint" />
+            <mxPoint x="515" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-3" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="JG38FneTFHqvnnvoD_w8-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="465" y="630" as="sourcePoint" />
+            <mxPoint x="515" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kasutaja" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- id: int&lt;br/&gt;- nimi: String&lt;br/&gt;- email: String" vertex="1">
+          <mxGeometry height="40" width="85" x="437.5" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-6" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="JG38FneTFHqvnnvoD_w8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+ login(): void&lt;br/&gt;+ vaataRattaid(): void&lt;br/&gt;+ rendiRatas(): void&lt;br/&gt;+ vaataAjalugu(): void" vertex="1">
+          <mxGeometry height="60" width="170" x="395" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-8" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="JG38FneTFHqvnnvoD_w8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="240" width="240" x="655" y="311" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-10" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-9" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="JG38FneTFHqvnnvoD_w8-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="755" y="560" as="sourcePoint" />
+            <mxPoint x="805" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-11" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-9" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="JG38FneTFHqvnnvoD_w8-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="755" y="560" as="sourcePoint" />
+            <mxPoint x="805" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ratas" vertex="1">
+          <mxGeometry height="30" width="60" x="745" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- id: int&lt;br/&gt;- number: String&lt;br/&gt;- seisund: String&lt;br/&gt;- asukoht: String" vertex="1">
+          <mxGeometry height="40" width="120" x="715" y="408" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+ rendi(): void&lt;br/&gt;+ tagasta(): void&lt;br/&gt;+ kontrolliSeisundit(): void" vertex="1">
+          <mxGeometry height="40" width="140" x="705" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-15" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="240" width="240" x="360" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-16" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-15" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="JG38FneTFHqvnnvoD_w8-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="900" as="sourcePoint" />
+            <mxPoint x="630" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-17" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-15" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="JG38FneTFHqvnnvoD_w8-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="900" as="sourcePoint" />
+            <mxPoint x="630" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rent" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- id: int&lt;br/&gt;- algus: Date&lt;br/&gt;- lopp: Date&lt;br/&gt;- hind: double" vertex="1">
+          <mxGeometry height="40" width="100" x="430" y="698" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+ alustaRent(): void&lt;br/&gt;+ lõpetaRent(): void&lt;br/&gt;+ arvutaHind(): double" vertex="1">
+          <mxGeometry height="30" width="140" x="410" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-21" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="JG38FneTFHqvnnvoD_w8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-22" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="240" width="240" x="655" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-23" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-22" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="JG38FneTFHqvnnvoD_w8-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="595" y="900" as="sourcePoint" />
+            <mxPoint x="645" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-24" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-22" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="JG38FneTFHqvnnvoD_w8-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="595" y="900" as="sourcePoint" />
+            <mxPoint x="645" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Jaam" vertex="1">
+          <mxGeometry height="30" width="60" x="745" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- id: int&lt;br/&gt;- nimi: String&lt;br/&gt;- asukoht: String" vertex="1">
+          <mxGeometry height="47" width="100" x="725" y="699" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+ lisaRatas(): void&lt;br/&gt;+ eemaldaRatas(): void&lt;br/&gt;+ vaataVabuRattaid(): void" vertex="1">
+          <mxGeometry height="47" width="160" x="695" y="786.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-28" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="JG38FneTFHqvnnvoD_w8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-29" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="240" width="240" x="1015" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Haldur" vertex="1">
+          <mxGeometry height="30" width="60" x="1105" y="452" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-31" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-29" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="JG38FneTFHqvnnvoD_w8-29" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1095" y="672" as="sourcePoint" />
+            <mxPoint x="1145" y="622" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-32" edge="1" parent="1" source="JG38FneTFHqvnnvoD_w8-29" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="JG38FneTFHqvnnvoD_w8-29" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1105" y="672" as="sourcePoint" />
+            <mxPoint x="1155" y="622" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- id: int&lt;br/&gt;- nimi: String&lt;br/&gt;- email: String" vertex="1">
+          <mxGeometry height="30" width="90" x="1090" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="JG38FneTFHqvnnvoD_w8-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+ vaataAktiivseidRente(): void&lt;br/&gt;+ haldaRatast(): void" vertex="1">
+          <mxGeometry height="30" width="175" x="1047.5" y="627" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
