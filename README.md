@@ -39,9 +39,9 @@ arendamise ajal muutuda.
 Me tegime maketi iteratiivselt, sest vaatasime mõlemad ekraanid 
 üle ja täiendasime neid vastavalt kasutajalugudele.
 
-![Vabad rattad](makett/vabad-rattad.png)
+![Vabad rattad](makett/vabad_rattad.png)
 
-![Ratta rent](makett/rendi-ekraan.png)
+![Ratta rent](makett/rendi_ekraan.png)
 
 ## Kuidas me töötasime
 
