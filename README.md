@@ -6,3 +6,7 @@ Kõigepealt arendaksime rataste vaatamise ja rentimise funktsioonid, sest need o
 Seejärel lisaksime ratta tagastamise ja rendi hinna arvutamise. 
 Pärast seda saaksime lisada rendiajaloo ja halduri funktsioonid. 
 Kosemudel ei sobiks nii hästi, sest süsteemi vajadused võivad arendamise ajal muutuda.
+
+## Makett
+
+Me tegime maketi iteratiivselt, sest vaatasime mõlemad ekraanid üle ja täiendasime neid vastavalt kasutajalugudele.
