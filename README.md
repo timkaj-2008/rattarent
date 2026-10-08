@@ -100,4 +100,5 @@ Järgmisel korral planeeriksime UML-diagrammide tegemiseks rohkem aega.
 
 **Edukriteerium:** Tellija kontrollib: kas kasutaja saab veebis vaba ratta valida[cite: 1, 3], rentida[cite: 1, 4], seda tagastada[cite: 1] ja kas haldur näeb aktiivset renti halduri vaates (Jah / Ei).
 
-**Hinnang:** 60 h, 4 päeva kahekesi (koos 20% varuga).
+[cite: 1]:
+   `**Hinnang:** 68 h, 4.3 päeva kahekesi.`[cite: 1]
